@@ -1,4 +1,4 @@
-# 0809_SLP_BOSTON
+# SLP_BOSTON
 
 파이썬 날코딩으로 single Layer Perceptron 부터 시작하여 딥러닝을 이해하기
 
